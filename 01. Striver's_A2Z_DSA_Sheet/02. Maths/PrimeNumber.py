@@ -40,14 +40,10 @@
                 Therefore, it is not a Prime Number.
                 1 is neither a Prime Number, nor a Composite Number.
                 It is also called Unique Number.
-
 """
 
 # Import all the Required Libraries
 import math
-import collections
-import sys
-import os
 
 # Function to check whether the given number is a Prime Number or not
 def check_prime (n):

@@ -57,9 +57,12 @@ def countDigits (n):
     
     # Iterate
     while (temp > 0):
+        
         remainder = temp % 10
+        
         if remainder != 0 and n % remainder == 0:
             count += 1
+        
         temp //= 10
     
     # Return the answer

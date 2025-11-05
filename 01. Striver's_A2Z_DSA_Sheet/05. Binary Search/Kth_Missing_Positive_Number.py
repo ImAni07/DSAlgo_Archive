@@ -1,7 +1,5 @@
 # Kth Missing Positive Number
 
-# Leetcode 1539
-
 """
 Problem Statement:-
 
@@ -112,4 +110,5 @@ Access the Problem:-
     Naukri Code 360 (Coding Ninjas): https://www.naukri.com/code360/problems/kth-missing-element_893215
 
 Article: https://takeuforward.org/arrays/kth-missing-positive-number/
+
 """

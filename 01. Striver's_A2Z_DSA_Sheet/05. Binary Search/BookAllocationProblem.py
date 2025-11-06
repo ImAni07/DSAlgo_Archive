@@ -61,7 +61,8 @@ def countStudents (arr, pages):
             total_pages += arr[i]
         
         else:
-            # If the total pages exceed the maximum pages, allocate the books to a new student
+            # If the total pages exceed the maximum pages, 
+            # allocate the books to a new student
             student_count += 1
             total_pages = arr[i]
     
@@ -149,4 +150,5 @@ Access the Problem:-
     Naukri Code 360 (Coding Ninjas): https://www.naukri.com/code360/problems/allocate-books_1090540
 
 Article: https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/
+
 """
